@@ -1,0 +1,15 @@
+## Interface: 20503
+## Title: RaidNotesTBC
+## Version: 1.0.1
+## Notes: An addon for managing personal raid notes
+## Author: Voodoomoose
+## SavedVariables: RaidNotesTBC
+
+Embeds.xml
+
+Constants.lua
+Utilities.lua
+Raids.lua
+RaidNotesTBC.lua
+Journal.lua
+Notes.lua
